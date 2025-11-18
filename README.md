@@ -1,4 +1,4 @@
-# 🌟 Smart AI Resume Analyzer 🌟
+# 🌟 Smart AI Resume Generator 🌟
 
 ![Project Banner](https://socialify.git.ci/Hunterdii/Smart-AI-Resume-Analyzer/image?description=1&font=Bitter&language=1&name=1&pattern=Circuit+Board&stargazers=1&theme=Dark)
 
@@ -52,14 +52,6 @@ Smart AI Resume Analyzer is an advanced platform designed to help job seekers cr
 ### Resume Analyzer
 ![Resume Analyzer](https://github.com/user-attachments/assets/fcfb02f2-2831-4f26-a251-8c67266afca8)
 
-### Dashboard
-![Dashboard](https://github.com/user-attachments/assets/90704043-a559-42fb-bcf1-330ebfedee2b)
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](https://github.com/Hunterdii/resume-analyzer-ai/blob/main/LICENSE).
 
 ---
 
@@ -71,19 +63,13 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 ## 💌 Support
 
-If you find this project helpful, consider supporting us:
-
-| Platform            | Link                                                                 |
-|---------------------|----------------------------------------------------------------------|
-| **GitHub Sponsors** | [Sponsor Here](https://github.com/sponsors/Hunterdii)               |
-| **Buy Me a Coffee** | [Buy Here](https://www.buymeacoffee.com/het81857)                   |
-
+If you find this project helpful, consider supporting me 
 ---
 
 ## 👩‍💻 Author
 
 **Swatalina Palar**  
-Creator of Smart AI Resume Analyzer.  
+Creator of Smart AI Resume Generator.  
 
 ---
 
