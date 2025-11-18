@@ -22,7 +22,6 @@ Smart AI Resume Analyzer is an advanced platform designed to help job seekers cr
 
 ### 📊 Dashboard
 - **Analytics**: Visualize your resume's performance metrics.
-- **Career Insights**: Access industry-specific recommendations.
 
 ### 🔒 Privacy First
 - Your data is secure and never shared without your consent.
