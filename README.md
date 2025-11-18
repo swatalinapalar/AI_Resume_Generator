@@ -49,41 +49,6 @@ Smart AI Resume Analyzer is an advanced platform designed to help job seekers cr
 
 ---
 
-## 🖥️ Setup Instructions
-
-### Prerequisites
-- Python 3.8+
-- pip (Python package manager)
-
-### Steps
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Hunterdii/resume-analyzer-ai.git
-   cd Smart-AI-Resume-Analyzer
-   ```
-
-2. **Create a Virtual Environment**:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Download spaCy Model**:
-   ```bash
-   python -m spacy download en_core_web_sm
-   ```
-
-5. **Run the Application**:
-   ```bash
-   streamlit run app.py
-   ```
-
----
 
 ## 📸 Screenshots
 
