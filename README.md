@@ -22,7 +22,7 @@ Smart AI Resume Generator and Analyser is an advanced platform designed to help 
 
 
 ### 🔒 Privacy First
-- Your data is secure and never shared without your consent.
+- Your data is secure and never shared with anyone without your consent.
 
 ---
 
