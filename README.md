@@ -8,7 +8,7 @@ Smart AI Resume Generator and Analyzer is an advanced platform designed to help 
 
 ---
 
-## ✨ Features
+✨ Features
 
 🔍 Resume Analysis
 - **ATS Compatibility Score**: Evaluate how well your resume aligns with ATS requirements.
