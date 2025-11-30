@@ -21,7 +21,7 @@ Smart AI Resume Generator and Analyzer is an advanced platform designed to help 
 - **Role-Specific Guidance**: Tailored advice for different job roles.
 
 
-### 🔒 Privacy First
+🔒 Privacy First
 - Your data is secure and never shared with anyone without your consent.
 
 ---
