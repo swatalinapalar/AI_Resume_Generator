@@ -28,7 +28,7 @@ Smart AI Resume Generator and Analyzer is an advanced platform designed to help 
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
+🌐 Frontend
 - **Streamlit**: Interactive and user-friendly web apps.
 - **HTML, CSS, JavaScript**: For structure, styling, and interactivity.
 
