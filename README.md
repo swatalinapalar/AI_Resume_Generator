@@ -68,7 +68,7 @@ If you find this project helpful, consider supporting me
 ## 👩‍💻 Author
 
 **Swatalina Palar**  
-Creator of Smart AI Resume Generator & Analyser .  
+Creator of Smart AI Resume Generator & Analyzer .  
 
 ---
 
