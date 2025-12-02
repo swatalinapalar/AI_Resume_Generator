@@ -32,7 +32,7 @@ Smart AI Resume Generator and Analyzer is an advanced platform designed to help 
 - **Streamlit**: Interactive and user-friendly web apps.
 - **HTML, CSS, JavaScript**: For structure, styling, and interactivity.
 
-### ⚙️ Backend
+⚙️ Backend
 - **Python**: Core programming language.
 - **spaCy**: NLP for keyword analysis and ATS checks.
 - **scikit-learn**: Machine learning models for optimization.
