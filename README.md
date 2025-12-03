@@ -64,7 +64,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 If you find this project helpful, consider supporting me 
 ---
 
-## 👩‍💻 Author
+👩‍💻 Author
 
 **Swatalina Palar**  
 Creator of Smart AI Resume Generator & Analyzer .  
