@@ -36,7 +36,7 @@ Smart AI Resume Generator and Analyzer is an advanced platform designed to help 
 - **scikit-learn**: Machine learning models for optimization.
 
 📂 Database
-- **SQLite3**: Efficient data storage and retrieval.
+- SQLite3 : Efficient data storage and retrieval.
 
 📊 Visualization
 - **Plotly**: Interactive charts for analytics.
