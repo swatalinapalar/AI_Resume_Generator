@@ -46,7 +46,6 @@ Smart AI Resume Generator and Analyzer is an advanced platform designed to help 
 
 Resume Analyzer
 ![Resume Analyzer](https://github.com/user-attachments/assets/fcfb02f2-2831-4f26-a251-8c67266afca8)
-
 ---
 🤝 Contributing
 
