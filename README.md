@@ -5,7 +5,6 @@
  🚀 About the Project
 
 Smart AI Resume Generator and Analyzer is an advanced platform designed to help job seekers create standout resumes and optimize them for Applicant Tracking Systems (ATS). With AI-powered insights, customizable templates, and role-specific recommendations, this tool empowers users to showcase their skills effectively and land their dream jobs.
-
 ---
 ✨ Features
 
@@ -42,17 +41,13 @@ Smart AI Resume Generator and Analyzer is an advanced platform designed to help 
 📊 Visualization
 - **Plotly**: Interactive charts for analytics.
 - **pandas**: Data manipulation and analysis.
-
 ---
-
-
 📸 Screenshots
 
 Resume Analyzer
 ![Resume Analyzer](https://github.com/user-attachments/assets/fcfb02f2-2831-4f26-a251-8c67266afca8)
 
 ---
-
 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
